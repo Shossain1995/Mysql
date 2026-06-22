@@ -3,5 +3,5 @@ cd "C:\Users\sabbir\OneDrive\Desktop\Data Analist\Mysql"
 git status
 git add .
 git commit -m "Push file"
-git push origin master
+git push origin main
  
